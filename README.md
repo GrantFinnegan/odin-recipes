@@ -1,0 +1,1 @@
+Simple website for hosting recipes. Made following the guide of The Odin Project, an open source full stack web developement course.
